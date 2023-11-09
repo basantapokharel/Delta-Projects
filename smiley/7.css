@@ -1,0 +1,31 @@
+#outer{
+    height:200px;
+    width:200px;
+    background-color:orange;
+    border-radius:100px;
+}
+.eye{
+    height:15px;
+    width:15px;
+    background-color:black;
+    border-radius:20px;
+}
+#first{
+    position:relative;
+    top:66px;
+    left:46px;
+}
+#second{
+    position:relative;
+    top:55px;
+    left:140px;
+}
+#mouth{
+    width:58px;
+    height:21px;
+    background-color:brown;
+    position:relative;
+    top:116px;
+    left:73px;
+    border-radius: 0 0 15px 15px;
+}
